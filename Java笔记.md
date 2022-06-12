@@ -14,3 +14,16 @@
 ![](1-02.PNG)
 ### 4、编译过程
 ![](1-03.PNG)
+### 3、Java注释
+单行注释：//
+多行注释：/\*    \*/
+文档注释（java特有）：/\*\*    \*/
+### 4、编程风格
+ Java API 源代码选择了行尾风格
+ '''Java
+ public class Test {
+    public static void main(String[] args){
+        System.out.println("Block Style!");
+    }
+}
+'''
